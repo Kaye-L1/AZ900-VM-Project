@@ -8,7 +8,7 @@ This project demonstrates the process of deploying a **Virtual Machine (VM)** on
 - **Subscription:** Use your Azure subscription.
 - **Resource Group:** Created a new resource group named `AZ900-VM-Project`.
 - **VM Name:** `AZ900-VM-Demo`.
-- **Region:** Chose a region close to my location for better latency.
+- **Region:** I chose a region close to my location for better latency.
 - **Availability Options:** No infrastructure redundancy required.
 - **Image:** Used **Windows Server 2022** for this deployment (or **Ubuntu** for Linux).
 - **Size:** Selected the cheapest size: **B1s**.
@@ -27,7 +27,7 @@ This project demonstrates the process of deploying a **Virtual Machine (VM)** on
   - Downloaded the RDP file from the Azure portal.
   - Used RDP to connect to the VM by providing the username and password.
 - **Linux VM:** 
-  - If using Linux, copied the SSH command from the Azure portal and connected via terminal.
+  - If using Linux, copy the SSH command from the Azure portal and connect via the terminal.
 
 ### 4. Deleting the Virtual Machine
 - After testing the VM, I deleted the entire **Resource Group** (`AZ900-VM-Project`) to avoid unnecessary charges.
