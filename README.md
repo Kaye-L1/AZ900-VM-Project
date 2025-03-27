@@ -1,4 +1,4 @@
-Azure Virtual Machine Deployment - AZ-900 Project
+# Azure Virtual Machine Deployment - AZ-900 Project
 
 ## Overview
 This project demonstrates the process of deploying a **Virtual Machine (VM)** on Azure, connecting to it via **RDP (Remote Desktop Protocol)**, and then deleting it to prevent further charges. The project was completed as part of preparation for the **AZ-900: Microsoft Azure Fundamentals** certification.
@@ -40,19 +40,15 @@ This project helped me practice the deployment, configuration, and deletion of a
 - I selected the **B1s VM size** to minimize cost and deleted the VM immediately after the demonstration.
 - The project was completed using a **pay-as-you-go** Azure plan, and no ongoing charges were incurred after VM deletion.
 
-## Screenshots
+## Screenshots:
 - **Screenshot 1:** VM running on my local machine.
 
 ## Conclusion
 This project provided foundational experience in Azure's compute and networking services. Understanding how to deploy and manage VMs will be useful for various Azure certifications and real-world IT roles.
 
+---
 
-
-
-
-___
-
-Azure Storage Account - AZ-900 Project
+# Azure Storage Account - AZ-900 Project
 
 ## Overview
 This project demonstrates the creation of an **Azure Storage Account** to understand cloud storage concepts.
@@ -76,6 +72,3 @@ This project demonstrates the creation of an **Azure Storage Account** to unders
 - How to create and configure an Azure Storage Account.
 - Understanding storage performance and redundancy options.
 - Managing cloud storage resources in Azure.
-
-
-
