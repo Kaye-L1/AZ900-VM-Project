@@ -42,7 +42,6 @@ This project helped me practice the deployment, configuration, and deletion of a
 
 ## Screenshots
 - **Screenshot 1:** VM running on my local machine.
-- **Screenshot 2:** VM overview page in Azure portal before deletion.
 
 ## Conclusion
 This project provided foundational experience in Azure's compute and networking services. Understanding how to deploy and manage VMs will be useful for various Azure certifications and real-world IT roles.
