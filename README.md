@@ -65,8 +65,6 @@ This project demonstrates the creation of an **Azure Storage Account** to unders
 5. Click **Review + Create** and wait for the deployment to complete.
 6. Once created, navigate to the **Storage Account Overview Page** to see your newly created resource.
 
-## Screenshots:
-- **Screenshot 1:** Created storage account.
 
 ## Key Learnings
 - How to create and configure an Azure Storage Account.
