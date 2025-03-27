@@ -46,6 +46,10 @@ This project helped me practice the deployment, configuration, and deletion of a
 ## Conclusion
 This project provided foundational experience in Azure's compute and networking services. Understanding how to deploy and manage VMs will be useful for various Azure certifications and real-world IT roles.
 
+
+
+
+
 ___
 
 Azure Storage Account - AZ-900 Project
