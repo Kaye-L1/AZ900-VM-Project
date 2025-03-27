@@ -8,7 +8,7 @@ This project demonstrates the process of deploying a **Virtual Machine (VM)** on
 - **Subscription:** Use your Azure subscription.
 - **Resource Group:** Created a new resource group named `AZ900-VM-Project`.
 - **VM Name:** `AZ900-VM-Demo`.
-- **Region:** I chose a region close to my location for better latency.
+- **Region:** Choose a region close to your location for better latency.
 - **Availability Options:** No infrastructure redundancy required.
 - **Image:** Used **Windows Server 2022** for this deployment (or **Ubuntu** for Linux).
 - **Size:** Selected the cheapest size: **B1s**.
@@ -45,3 +45,33 @@ This project helped me practice the deployment, configuration, and deletion of a
 
 ## Conclusion
 This project provided foundational experience in Azure's compute and networking services. Understanding how to deploy and manage VMs will be useful for various Azure certifications and real-world IT roles.
+
+
+
+Azure Storage Account - AZ-900 Project
+
+## Overview
+This project demonstrates the creation of an **Azure Storage Account** to understand cloud storage concepts.
+
+## Steps
+1. **Go to Azure Portal** and search for **Storage Accounts**.
+2. Click **+ Create** to start the setup.
+3. **Choose Subscription & Resource Group** (Create a new resource group if needed).
+4. **Configure Storage Account:**
+   - **Name:** az900storage-[your initials]
+   - **Region:** (Choose the same as your previous resources)
+   - **Performance:** Standard
+   - **Redundancy:** Locally-redundant storage (LRS)
+5. Click **Review + Create** and wait for the deployment to complete.
+6. Once created, navigate to the **Storage Account Overview Page** to see your newly created resource.
+
+## Screenshots:
+- **Screenshot 1:** Created storage account.
+
+## Key Learnings
+- How to create and configure an Azure Storage Account.
+- Understanding storage performance and redundancy options.
+- Managing cloud storage resources in Azure.
+
+
+
